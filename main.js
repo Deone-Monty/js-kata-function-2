@@ -45,9 +45,10 @@ function multiply(a, b) {
     return result;
     
 }
+console.log(multiply(6, 4));
 // 6 * 4
 // multiply (6, 4)
-// console.log(multiply(6, 4));
+
 // let tempAnswer = 3 * 5
 // console.log(tempAnswer)
 // tempAnswer = multiply(3, 5)
